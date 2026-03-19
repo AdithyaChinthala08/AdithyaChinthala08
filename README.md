@@ -3,7 +3,7 @@
 <h3 align="center">AI & Backend Engineer | LangGraph · RAG · FastAPI · AWS Bedrock</h3>
 
 <p align="center">
-  <a href="mailto:adithyachinthala1@gmail.com">
+  <a href="mailto:lalithch1706@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AdithyaChinthala08" target="_blank">
