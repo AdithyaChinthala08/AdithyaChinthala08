@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with **4+ years** of experience building **production-grade AI systems and scalable Python backends**.
+Software Engineer with experience in building **production-grade AI systems and scalable Python backends**.
 
 - 🤖 I specialize in **LLM integration** — RAG pipelines, multi-agent systems with LangGraph, AWS Bedrock & OpenAI
 - ⚡ I've deployed systems achieving **99.9% uptime** with measurable latency improvements up to **40%**
